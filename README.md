@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prakritipi
-- 👀 I’m interested in ... software development; cybersecurity; AI
+- 👀 I’m interested in ... data analytics and AI
 - 🌱 I’m currently learning ... BCA
 - 💞️ I’m looking to collaborate on ...Github and other IT platforms
 - 📫 How to reach me ... mail
