@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Prakritipi
 - 👀 I’m interested in ... data analytics and AI
-- 🌱 I’m currently learning ... BCA
+- 🌱 I’m currently completed my bachelors in ... BCA
 - 💞️ I’m looking to collaborate on ...Github and other IT platforms
-- 📫 How to reach me ... mail
+- 📫 How to reach me ... prakritiacharyaa@gmail.com
 - 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I'm the Vice President of International Student Association FISA-B
 
 <!---
 Prakritipi/Prakritipi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
